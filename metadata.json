@@ -1,0 +1,7 @@
+{
+  "name": "Global Fleet Tracker - Fluvial, Maritime & Land",
+  "description": "Professional fleet monitoring system for water and land vehicles using high-precision GPS and AI-powered weather insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
